@@ -29,7 +29,7 @@ function TodoForm() {
 
   return (
     <form>
-      <label>Type your new todo</label>
+      <label>Type a new todo</label>
 
       <textarea placeholder="Learn React.js" onChange={onChange} />
 

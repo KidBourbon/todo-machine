@@ -1,13 +1,17 @@
 body {
   margin: 0;
   padding: 0;
-  background: #F2F4F5;
-  color: #1E1E1F;
-  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  background: #f2f4f5;
+  color: #1e1e1f;
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
 }
 
 #root {
-  margin: 0 24px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
   position: relative;
+  max-width: 800px;
   min-height: 100vh;
+  padding: 0 16px;
 }

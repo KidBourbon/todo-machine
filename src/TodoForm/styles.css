@@ -67,5 +67,5 @@ textarea:focus {
 }
 
 .TodoForm-button--cancel {
-  background: transparent;
+  background: #b0b0b0;
 }
